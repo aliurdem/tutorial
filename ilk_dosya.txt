@@ -1,2 +1,2 @@
-"githubdaki ilk dosyam" 
-test necmettin
+"githubdaki ilk dosyam"
+test from necmettin
