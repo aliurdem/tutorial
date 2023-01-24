@@ -6,3 +6,9 @@ onaylandı
 TEST-0002
 for i in range(5,10):
     print(i)
+
+TEST-0004
+
+def topla(x,y):
+    return x+y
+
