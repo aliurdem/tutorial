@@ -12,3 +12,10 @@ TEST-0004
 def topla(x,y):
     return x+y
 
+TEST-0005
+sayi = topla(5,4)
+if(sayi >=9):
+   print("girdiginiz sayilarin toplami 8 den buyuk")
+
+else:
+    print("girdiginiz sayilarin toplamı 8 den kucuk")
