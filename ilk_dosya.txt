@@ -3,3 +3,6 @@ test from necmettin
 bu degisiklik 0003
 yapıldı test edildi
 onaylandı
+TEST-0002
+for i in range(5,10):
+    print(i)
