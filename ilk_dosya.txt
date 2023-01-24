@@ -1,2 +1,5 @@
 "githubdaki ilk dosyam"
 test from necmettin
+bu degisiklik 0003
+yapıldı test edildi
+onaylandı
