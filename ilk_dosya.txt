@@ -1,2 +1,5 @@
 "githubdaki ilk dosyam"
 test from necmettin
+TEST-0002
+for i in range(5,10):
+    print(i)
